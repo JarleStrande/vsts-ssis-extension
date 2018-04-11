@@ -76,7 +76,7 @@ See [Build Task Requirements](#build)
 ## Latest Updates
 
 1.0.0
-> Supported version TFS 2017, 2018, VSTS - Hosted, Hosted VS2017
+> Supported version TFS 2017 and later, VSTS - Hosted Agent, Hosted Agent 2017
 
 > Implemented option for Custom path to Devenv
 
