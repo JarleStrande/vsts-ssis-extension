@@ -1,6 +1,6 @@
 ![Build Status](https://toxicglobe.visualstudio.com/_apis/public/build/definitions/62790b7f-50dd-4a0e-8954-b613d4a9e98b/44/badge) 
 
-Current Version: 1.0.1148
+Current Version: 1.0.1149
 
 # Introduction
 VSTS Extension task to build and deploy Visual Studio Project - SQL Server Integration Services using the Project Deployment Model
