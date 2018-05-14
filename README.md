@@ -1,6 +1,6 @@
 ![Build Status](https://toxicglobe.visualstudio.com/_apis/public/build/definitions/62790b7f-50dd-4a0e-8954-b613d4a9e98b/44/badge) 
 
-Current Version: 1.0.1149
+Current Version: 1.0.1151
 
 # Introduction
 VSTS Extension task to build and deploy Visual Studio Project - SQL Server Integration Services using the Project Deployment Model
@@ -17,7 +17,7 @@ Build Visual Studio project, containing packages and parameters. It is built to 
 https://msdn.microsoft.com/en-us/library/hh213290.aspx
 
 ##### Deploy Task
-Deploy .ispac package to SSIS instance using windows authentification (SQL auth is not possible by MSSQL security architecture)
+Deploy .ispac package to SSIS instance using windows Authentication (SQL auth is not possible by MSSQL security architecture)
 
 ## Task Requirements
 ##### Build Task
